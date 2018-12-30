@@ -1,0 +1,60 @@
+html { 
+	text-align: center;
+	color: red;
+	background-color: white;
+	font-weight: 200px;
+}
+
+.profbox {
+	border: 5px solid red;
+	outline-style: solid;
+	outline-color: red;
+	font-size: 30px;
+	width: 400px;
+	height: 530px;
+	padding: 40px;
+	color: red;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.social a {
+	color: red;
+}
+.social {
+	font-size: 35px;
+	letter-spacing: 5px;
+}
+.profpic {
+	border-radius: 50%;
+	height: 220px;
+	width: 290px;
+}
+
+h1 {
+	line-height: 0px;
+	font-size: 40px;
+	font-family: 'Righteous', cursive;
+	letter-spacing: 4px;
+}
+h2 {
+	letter-spacing: 2px;
+	line-height: 8px;
+	font-size: 30px;
+	font-family: 'Righteous', cursive;
+	padding-top: 10px;
+}
+
+p {
+	font-size: 25px;
+	font-family: 'Caveat Brush', cursive;
+	font-weight: 500px;
+
+}
+
+.line {
+	margin: 0 auto;
+	width: 350px;
+	border-top: 1px solid red;
+}
